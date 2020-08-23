@@ -1,1 +1,1 @@
-# react-trail
+# Run npn-init and install react dependencies
